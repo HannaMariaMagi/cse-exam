@@ -1,0 +1,11 @@
+file:.git/config        core.repositoryformatversion=0
+file:.git/config        core.filemode=false
+file:.git/config        core.bare=false
+file:.git/config        core.logallrefupdates=true
+file:.git/config        core.symlinks=false
+file:.git/config        core.ignorecase=true
+file:.git/config        remote.origin.url=https://github.com/HannaMariaMagi/cse-exam.git
+file:.git/config        remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config        branch.dev.remote=origin
+file:.git/config        branch.dev.merge=refs/heads/dev
+file:.git/config        alias.exam=git blame -L 10,10 index.html
